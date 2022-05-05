@@ -51,6 +51,15 @@ XD Links can be found here:
 - Here are the screenshots for mobile:
     <div align="center">
     <img src="images/screenshot-one-mobile.png" alt="Screenshot"><br>
+    <img src="images/screenshot-two-mobile.png" alt="Screenshot"><br>
+    <img src="images/screenshot-third-mobile.png" alt="Screenshot"><br>
+    <img src="images/screenshot-fourth-mobile.png" alt="Screenshot"><br>
+    <img src="images/screenshot-fifth-mobile.png" alt="Screenshot"><br>
+    <img src="images/screenshot-sixth-mobile.png" alt="Screenshot"><br>
+    <img src="images/screenshot-seventh-mobile.png" alt="Screenshot"><br>
+    <img src="images/screenshot-eighth-mobile.png" alt="Screenshot"><br>
+    <img src="images/screenshot-nineth-mobile.png" alt="Screenshot"><br>
+    <img src="images/screenshot-tenth-mobile.png" alt="Screenshot"><br>
     </div>
 
 
