@@ -33,15 +33,21 @@ XD Links can be found here:
 
 
 ### Screenshot of the page (This page is no longer live)
-- Here is a screenshot of the hero section, I added Javascript on the white arrow to provide the user a smooth scroll to the next section.
+- Here are the screenshots: 
     <div align="center">
+    - Here is a screenshot of the hero section, I added Javascript on the white arrow to provide the user a smooth scroll to the next section.
     <img src="images/hero-section.png" alt="Screenshot"><br>
     <img src="images/screenshot-first-section.png" alt="Screenshot"><br>
     - I completed the Iceburg using CSS poitioning
     <img src="images/screenshot-second-section.png" alt="Screenshot"><br>
-    - Here is an example of the hover effect, done via CSS. 
+    - Here is an example of the hover effect, done via CSS (swapping two images). 
     <img src="images/screenshot-hover-one.png" alt="Screenshot"><br>
     <img src="images/screenshot-hover-two.png" alt="Screenshot"><br>
+    -Information 
+    <img src="images/screenshot-third-section.png" alt="Screenshot"><br>
+    <img src="images/screenshot-fourth-section.png" alt="Screenshot"><br>
+    <img src="images/screenshot-fifth-section.png" alt="Screenshot"><br>
+
     </div>
 
 
