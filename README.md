@@ -4,22 +4,10 @@
 1.  [**Project Goals**](#project-goals)
     - [**Design choices**](#design-choices)
 
+2. [**Technologies used**](#technologies-used)
 
-2. [**Features**](#features)
+3. [**Testing**](#testing)
 
-
-3. [**Technologies used**](#technologies-used)
-
-4. [**Testing**](#testing)
-
-5. [**Deployment**](#deployment)
-    - [**How to run this project locally**](#how-to-run-this-project-locally)
-
-6. [**Credits**](#credits)
-    - [**Content**](#content)
-    - [**Media**](#media)
-    - [**Code**](#code)
-    - [**Acknowledgements**](#acknowledgements)
 
 ### Project Goals
 
