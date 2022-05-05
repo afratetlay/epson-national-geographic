@@ -41,7 +41,7 @@ XD Links can be found here:
     <img src="images/screenshot-second-section.png" alt="Screenshot"><br>
     - Here is an example of the hover effect, done via CSS. 
     <img src="images/screenshot-hover-one.png" alt="Screenshot"><br>
-    <img src="images/screenshot-hover-second.png" alt="Screenshot"><br>
+    <img src="images/screenshot-hover-two.png" alt="Screenshot"><br>
     </div>
 
 
