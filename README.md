@@ -33,10 +33,10 @@ XD Links can be found here:
 
 
 ### Screenshot of the page (This page is no longer live)
-- Here is a screeshot of the hero section, I added Javascript on the white arrow to provide the user a smooth scroll to the next section.
-<div align="center">
-<img src="/images/hero-section.png" alt="Screenshot"><br>
-</div>
+- Here is a screenshot of the hero section, I added Javascript on the white arrow to provide the user a smooth scroll to the next section.
+    <div align="center">
+    <img src="images/hero-section.png" alt="Screenshot"><br>
+    </div>
 
 
 ## Technologies and Code Used
