@@ -36,6 +36,7 @@ XD Links can be found here:
 - Here is a screenshot of the hero section, I added Javascript on the white arrow to provide the user a smooth scroll to the next section.
     <div align="center">
     <img src="images/hero-section.png" alt="Screenshot"><br>
+    <img src="images/screenshot-first-section.png" alt="Screenshot"><br>
     </div>
 
 
