@@ -33,7 +33,7 @@ XD Links can be found here:
 
 
 ### Screenshot of the page (This page is no longer live)
-- Here are the screenshots: 
+- Here are the screenshots for Desktop: 
     <div align="center">
     - Here is a screenshot of the hero section, I added Javascript on the white arrow to provide the user a smooth scroll to the next section.
     <img src="images/hero-section.png" alt="Screenshot"><br>
@@ -47,7 +47,10 @@ XD Links can be found here:
     <img src="images/screenshot-third-section.png" alt="Screenshot"><br>
     <img src="images/screenshot-fourth-section.png" alt="Screenshot"><br>
     <img src="images/screenshot-fifth-section.png" alt="Screenshot"><br>
-
+    </div>
+- Here are the screenshots for mobile:
+    <div align="center">
+    <img src="images/screenshot-one-mobile.png" alt="Screenshot"><br>
     </div>
 
 
