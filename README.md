@@ -37,6 +37,8 @@ XD Links can be found here:
     <div align="center">
     <img src="images/hero-section.png" alt="Screenshot"><br>
     <img src="images/screenshot-first-section.png" alt="Screenshot"><br>
+    - I completed the Iceburg using CSS poitioning
+    <img src="images/screenshot-first-section.png" alt="Screenshot"><br>
     </div>
 
 
